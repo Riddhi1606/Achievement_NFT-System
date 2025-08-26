@@ -67,9 +67,4 @@ The Achievement NFT System is built using:
 
 ST25T8GGMEEV4VB0JHQ66FCKD6KZQSD15RC26FYCX.AchievementNFTSystem
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7d1638b4-c210-4645-bc16-bcaa40164d49" />
-
-
----
-
-**Join the Gaming Revolution**: Help us build the future of gaming achievements where every accomplishment matters, every achievement has value, and every gamer truly owns their legacy.
+<img width="1887" height="861" alt="image" src="https://github.com/user-attachments/assets/dd2136b6-1289-46f2-9082-6f04cb1b98b4" />
